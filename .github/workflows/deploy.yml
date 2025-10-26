@@ -1,0 +1,39 @@
+name: Deploy Jekyll Site
+
+on:
+  # Trigger the workflow on pushes to the main branch
+  push:
+    branches:
+      - main
+
+# Allow one concurrent deployment
+concurrency:
+  cancel-in-progress: true
+  group: ${{ github.workflow }}-${{ github.ref }}
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: ⬇️ Checkout code
+        uses: actions/checkout@v4
+
+      # Setup Ruby and install dependencies (like Jekyll)
+      - name: 💎 Setup Ruby and Gems
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.1" # Adjust this to match the Ruby version used in your Gemfile/local setup
+          bundler-cache: true # Installs dependencies from Gemfile.lock
+
+      # Build the Jekyll site into the _site folder
+      - name: ⚙️ Build Jekyll site
+        run: bundle exec jekyll build
+
+      # Deploy the contents of the _site folder to GitHub Pages
+      - name: 🚀 Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
+          # Ensures the custom domain (eduardodiaz.dev) is respected
+          cname: eduardodiaz.dev
