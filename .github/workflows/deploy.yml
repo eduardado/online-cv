@@ -4,7 +4,7 @@ on:
   # Trigger the workflow on pushes to the main branch
   push:
     branches:
-      - main
+      - master
 
 # Allow one concurrent deployment
 concurrency:
