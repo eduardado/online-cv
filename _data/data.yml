@@ -59,11 +59,11 @@ career-profile:
     Donec quam felis, ultricies nec, pellentesque eu.
     Second paragraph if required.
 education:
-  title: Education
+  title: Multiplatform Software Development
   info:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Associate Degree
+      university: Fundación San Pablo CEU
+      time: 2019 - 2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -72,9 +72,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Licenciate Degree in Biotechnology
+      university: Pablo Olavide University
+      time: 2008 - 2013
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
