@@ -15,18 +15,18 @@ sidebar:
   # Sidebar links
   email: eduardado@gmail.com
   phone: 0 434 904 185
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: Australia/Brisbane # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://eduardodiaz.dev # Include the full website URL, including "http://" or "https://".
   linkedin: alandoe
-  xing: alandoe
+  xing:
   github: eduardado
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: "@jekyllrb.bsky.social" # Specify your full Bluesky handle
-  twitter: "@jekyllrb"
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  bluesky:
+  twitter:
+  stack-overflow:
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
   mastodon: # Please include your full Mastodon link here.
@@ -85,11 +85,11 @@ education:
           - Bullet point
 
 experiences:
-  title: Experiences
+  title: Java Backend Software Engineer
   info:
     - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      time: 2024 - Present
+      company: Contal Services, Brisbane
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
