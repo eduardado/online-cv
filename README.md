@@ -68,12 +68,12 @@ bundle exec jekyll serve
 
 There are 6 color schemes available:
 
-| Blue | Turquoise | Green |
-|---------|---------|---------|
+| Blue                                                                          | Turquoise                                                                          | Green                                                                          |
+| ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
 | <img src="https://online-cv.webjeda.com/assets/images/blue.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/turquoise.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/green.jpg" width="300"/> |
 
-| Berry | Orange | Ceramic |
-|---------|---------|---------|
+| Berry                                                                          | Orange                                                                          | Ceramic                                                                          |
+| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | <img src="https://online-cv.webjeda.com/assets/images/berry.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/orange.jpg" width="300"/> | <img src="https://online-cv.webjeda.com/assets/images/ceramic.jpg" width="300"/> |
 
 ## Credits
@@ -87,4 +87,3 @@ Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=sharu725/online-cv&type=Date)](https://star-history.com/#sharu725/online-cv&Date)
-
