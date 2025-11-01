@@ -62,7 +62,7 @@ education:
   title: Multiplatform Software Development
   info:
     - degree: Associate Degree
-      university: Fundación San Pablo CEU
+      university: CEU San Pablo University
       time: 2019 - 2021
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
@@ -100,19 +100,23 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Greenfield projects:
+          - Database design & implementation
+          - REST API design & implementation
+          - Spring boot
+          - Git (command line)
+        Exposure through Legacy System maintenance and development:
+          - Frontend: ReactJs, JavaScript, Tapestry, jQuery
+          - Backend: Docker, Java, Inforix DB
     - role: Full Stack Software Developer
       time: 2021 - 2024
       company: Tier1 S.A. Seville
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        - Development, maintenance of Commerzia (Web, Desktop, APIs, Integrations).
+        - Develop custom features and deployment in production for clients.
+        - Exposure:
+          - Frontend: Vaadin, JavaFx, JavaScript
+          - Backend: Java, Spring, REST & SOAP APIs, Velocity, Integrations with third party systems, Gitlab CD/CI, git, subversion
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
