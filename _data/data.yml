@@ -88,7 +88,7 @@ experiences:
   title: Java Backend Software Engineer
   info:
     - role: Software Engineer
-      time: 2024 - Present
+      time: Sep 2024 - Present
       company: Contal Services, Brisbane
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -108,6 +108,18 @@ experiences:
         Exposure through Legacy System maintenance and development:
           - Frontend: ReactJs, JavaScript, Tapestry, jQuery
           - Backend: Docker, Java, Inforix DB
+    - role: Freelance Software Engineer
+      time: Jun 2024 - Oct 2024
+      company: Austrlian Koala Foundation
+      details: |
+        - Creation & Development of PostGresSQL for scientific geolocation database.
+        - Stack: PostGresSQL, Database Administration & design, Python
+        - ref: littleoakey@savethekoala.com
+    - role: Freelance Software Engineer
+      time: Mar 2024 - May 2024
+      company: Boomzza!
+      details: |
+        - Consultant & tester. Ref: daniel@boomzza.com
     - role: Full Stack Software Developer
       time: 2021 - 2024
       company: Tier1 S.A. Seville
@@ -117,42 +129,21 @@ experiences:
         - Exposure:
           - Frontend: Vaadin, JavaFx, JavaScript
           - Backend: Java, Spring, REST & SOAP APIs, Velocity, Integrations with third party systems, Gitlab CD/CI, git, subversion
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
 
 certifications:
   title: Certifications
   list:
-    - name: CV Builder
+    - name: IELTS Academic Band 7.5
+      issued: Sep 2023
       start: 2020
       end: 2021
-      organization: Microsoft
+      organization: IELTS Official
       credentialid: 111-222
       credentialurl: www.google.com
       credentialname: Google
       details: |
         Details about cert. Lorem ipsum dolor sit amet, consectetur
         adipiscing elit.
-        Nullam eget orci purus. Nullam ultrices neque nibh.
-        Aenean fermentum, felis vulputate suscipit accumsan,
-        sem enim bibendum augue, sed convallis arcu lacus at dui.
-        Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-        Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-        Praesent venenatis erat non augue suscipit consectetur.
-
-        Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-        fringilla vel. Ut euismod, sem sed vulputate venenatis,
-        justo diam viverra velit, sed rhoncus leo leo eu justo.
-        Suspendisse placerat risus ante, sed porta nisi blandit at.
     - name: Git learning
       start: 2019
       end:
