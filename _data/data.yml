@@ -162,43 +162,42 @@ projects:
     - title: DevStudio
       link: "#"
       tagline: "A responsive website template designed to help web developers/designers market their services."
+# recommendations:
+#   title: Recommendations
+#   list:
+#     - person: Yareli Perez
+#       email: perezyareli@example.com
+#       phone: 012 345 6789
+#       role: General Director at example.com
+#       recommendation: |
+#         Alan Doe is a super employee!
+#     - person: Lara Henderson
+#       email: larah@example.com
+#       phone: 012 345 6789
+#       role: General Director at example.com
+#       recommendation: |
+#         I would like to work with Alan Doe again!
 
-recommendations:
-  title: Recommendations
-  list:
-    - person: Yareli Perez
-      email: perezyareli@example.com
-      phone: 012 345 6789
-      role: General Director at example.com
-      recommendation: |
-        Alan Doe is a super employee!
-    - person: Lara Henderson
-      email: larah@example.com
-      phone: 012 345 6789
-      role: General Director at example.com
-      recommendation: |
-        I would like to work with Alan Doe again!
+#         He is a great employee!
 
-        He is a great employee!
+# skills:
+#   title: Skills &amp; Proficiency
 
-skills:
-  title: Skills &amp; Proficiency
+#   toolset:
+#     - name: Java & Spring Boot
+#       level: 98%
 
-  toolset:
-    - name: Java & Spring Boot
-      level: 98%
+#     - name: RDBMS PostgreSQL, MySQL, Oracle, Informix
+#       level: 95%
 
-    - name: RDBMS PostgreSQL, MySQL, Oracle, Informix
-      level: 95%
+#     - name: Git
+#       level: 95%
 
-    - name: Git
-      level: 95%
+#     - name: HTML5 & CSS && JavaScript
+#       level: 75%
 
-    - name: HTML5 & CSS && JavaScript
-      level: 75%
+#     - name: ReactJs, JavaFx, Vaadin, JSP, Tapestry
+#       level: 65%
 
-    - name: ReactJs, JavaFx, Vaadin, JSP, Tapestry
-      level: 65%
-
-footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
