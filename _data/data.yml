@@ -110,7 +110,7 @@ experiences:
       details: |
         - Evaluated third-party e-sports APIs for features, pricing, and integration feasibility.
         - Conducted functional testing and reported bugs to the development team.
-    - role: Software Developer (Full Stack) Tier1 Technologies
+    - role: Software Developer (Full Stack)
       time: Mar 2021 - Feb 2024
       company: Tier1 Technologies
       details: |
@@ -121,6 +121,27 @@ experiences:
           - Database: Schema design and development of cross-compatible SQL scripts (Oracle, MySQL, Postgres).
           - Integration: Connecting software with external hardware (cash management devices) and third-party APIs.
           - DevOps: Execution of production deployments and maintenance of GitLab CI/CD pipelines.
+    - role: Clinical Embryologist
+      time: Jan 2018 - May 2018
+      company: Complete Fertility | University Hospital Southampton (NHS)
+      details: |
+        Transferable Achievement: Managed the cryopreservation inventory system and acted as the technical point of contact for patients, translating complex treatment data into clear, understandable progress reports.
+        Responsibilities:
+          - Recovery and in vitro culture of gametes.
+          - Preparation and maintenance of the laboratory culture system.
+          - Management and audit of the cryopreservation banks for gametes and embryos.
+    - role: Clinical Embryologist
+      time: Oct 2016 - Oct 2016
+      company: IVI RMA Global | Spain
+      details: |
+        Key Achievement: Responsible for the implementation, staff training, and user experience customization of an electronic traceability system for human gametes across several clinics nationwide.
+        Responsibilities:
+          - Manipulation and in vitro culture of human gametes.
+          - Maintenance and preparation of culture systems for human gametes and embryos. 
+        Specialized Training:
+          - Intracytoplasmic Sperm Injection (ICSI).
+          - Oocyte Denudation and maturity grading.
+          - Embryo Laser Assisted Hatching.
 
 certifications:
   title: Certifications
