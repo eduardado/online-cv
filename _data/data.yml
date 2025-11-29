@@ -79,7 +79,7 @@ experiences:
       time: Sep 2024 - Present
       company: Contal Services, Brisbane
       details: |
-        - Working as part of the engineering team to develop and maintain backend software solutions.
+        Working as part of the engineering team to develop and maintain backend software solutions.
         - Backend: Development using Java and Spring Boot, designing RESTful APIs.
         - Database: Design and implementation of Relational Databases (Informix).
         - Frontend: Assisting with component implementation using React and JavaScript.
@@ -149,19 +149,18 @@ certifications:
       credentialid: 0039516094061
       credentialurl: https://immi.homeaffairs.gov.au/
       credentialname: Visa subclass 820 | Department of Home Affairs
+# projects:
+#   title: Projects
+#   intro: >
+#     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#   assignments:
+#     - title: Velocity
+#       link: "#hook"
+#       tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-    - title: Velocity
-      link: "#hook"
-      tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-    - title: DevStudio
-      link: "#"
-      tagline: "A responsive website template designed to help web developers/designers market their services."
+#     - title: DevStudio
+#       link: "#"
+#       tagline: "A responsive website template designed to help web developers/designers market their services."
 # recommendations:
 #   title: Recommendations
 #   list:
