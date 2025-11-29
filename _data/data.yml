@@ -99,25 +99,28 @@ experiences:
         - Legacy: Maintenance and support of existing systems.
     - role: Freelance Software Engineer
       time: Jun 2024 - Oct 2024
-      company: Austrlian Koala Foundation
+      company: Australian Koala Foundation | Database Consultant (Volunteer)
       details: |
-        - Creation & Development of PostGresSQL for scientific geolocation database.
-        - Stack: PostGresSQL, Database Administration & design, Python
-        - ref: davidmurraygrant@gmail.com ; littleoakey@savethekoala.com
+        - Requirements: Consulted with researchers to understand how they record and use koala spotting data.
+        - Data Analysis: Reviewed 30 years of Excel records to plan a data structure and cleanup process.
+        - Design: Designed a geospatial database model using PostgreSQL and PostGIS to replace the spreadsheet system.
     - role: Freelance Software Engineer
       time: Mar 2024 - May 2024
-      company: Boomzza!
+      company: Boomzza! | Technical Analyst
       details: |
-        - Consultant & tester. Ref: daniel@boomzza.com
-    - role: Full Stack Software Developer
-      time: 2021 - 2024
-      company: Tier1 S.A. Seville
+        - Evaluated third-party e-sports APIs for features, pricing, and integration feasibility.
+        - Conducted functional testing and reported bugs to the development team.
+    - role: Software Developer (Full Stack) Tier1 Technologies | Mar 2021 - Feb 2024
+      time: Mar 2021 - Feb 2024
+      company: Tier1 Technologies
       details: |
-        - Development, maintenance of Commerzia (Web, Desktop, APIs, Integrations).
-        - Develop custom features and deployment in production for clients.
-        - Exposure:
-          - Frontend: Vaadin, JavaFx, JavaScript
-          - Backend: Java, Spring, REST & SOAP APIs, Velocity, Integrations with third party systems, Gitlab CD/CI, git, subversion
+        Software developer for the "Comerzzia" (POS) and "Atractor" (ERP) platforms, acting as a full-stack developer across backend, desktop, and web modules.
+        Core Responsibilities:
+          - Backend: Customization of core product logic using Java, Spring, and MyBatis.
+          - Frontend: Implementation of UIs for desktop (JavaFX) and web (Vaadin).
+          - Database: Schema design and development of cross-compatible SQL scripts (Oracle, MySQL, Postgres).
+          - Integration: Connecting software with external hardware (cash management devices) and third-party APIs.
+          - DevOps: Execution of production deployments and maintenance of GitLab CI/CD pipelines.
 
 certifications:
   title: Certifications
