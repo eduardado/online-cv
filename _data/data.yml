@@ -59,7 +59,7 @@ career-profile:
     Beyond the code, I focus on the human side of development. I believe that clear communication and empathy are just as important as the technical solution.
 
 education:
-  title: Multiplatform Software Development
+  title: Education
   info:
     - degree: Associate Degree
       university: CEU San Pablo University
@@ -85,7 +85,7 @@ education:
           - Bullet point
 
 experiences:
-  title: Java Backend Software Engineer
+  title: Professional Experience
   info:
     - role: Java Backend Software Engineer
       time: Sep 2024 - Present
