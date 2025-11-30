@@ -85,27 +85,27 @@ experiences:
         - Frontend: Assisting with component implementation using React and JavaScript.
         - DevOps: Utilizing Docker for development environments.
         - Legacy: Maintenance and support of existing systems.
-    - role: Freelance Software Engineer
+    - role: Software Engineer (Database Consultant) (Volunteer)
       time: Jun 2024 - Sep 2024
-      company: Australian Koala Foundation | Database Consultant (Volunteer)
+      company: Australian Koala Foundation, Brisbane
       details: |
         - Requirements: Consulted with researchers to understand how they record and use koala spotting data.
         - Data Analysis: Reviewed 30 years of Excel records to plan a data structure and cleanup process.
         - Design: Designed a geospatial database model using PostgreSQL and PostGIS to replace the spreadsheet system.
-    - role: Freelance Software Engineer
+    - role: Software Engineer (Technical Analyst)
       time: Mar 2024 - May 2024
-      company: Boomzza! | Technical Analyst
+      company: Boomzza!, Brisbane
       details: |
         - Evaluated third-party e-sports APIs for features, pricing, and integration feasibility.
         - Conducted functional testing and reported bugs to the development team.
     - role: Software Developer (Full Stack)
       time: Mar 2021 - Feb 2024
-      company: Tier1 Technologies
+      company: Tier1 Technologies, Seville, Spain
       details: |
-        Software developer for the "Comerzzia" (POS) and "Atractor" (ERP) platforms, acting as a full-stack developer across backend, desktop, and web modules.
+        Acting as a full-stack developer across, desktop, web, and integrations for "Comerzzia" (Unified Commerce Platform) and "Atractor" (in-house ERP).
         Core Responsibilities:
           - Backend: Customization of core product logic using Java, Spring, and MyBatis.
-          - Frontend: Implementation of UIs for desktop (JavaFX) and web (Vaadin).
+          - Frontend: Implementation of UIs for desktop (JavaFX) and web (Vaadin & JavaScript).
           - Database: Schema design and development of cross-compatible SQL scripts (Oracle, MySQL, Postgres).
           - Integration: Connecting software with external hardware (cash management devices) and third-party APIs.
           - DevOps: Execution of production deployments and maintenance of GitLab CI/CD pipelines.
