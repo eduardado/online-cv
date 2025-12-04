@@ -142,13 +142,6 @@ certifications:
       credentialid: 23ES501067DIAE024A
       credentialurl: https://ielts.org/organisations/ielts-for-organisations/verifying-ielts-results
       credentialname: IELTS Official
-    - name: Visa subclass 820 - full working rights in Australia
-      start: 2024
-      end: indefinite
-      organization: Australian Government
-      credentialid: 0039516094061
-      credentialurl: https://immi.homeaffairs.gov.au/
-      credentialname: Visa subclass 820 | Department of Home Affairs
 # projects:
 #   title: Projects
 #   intro: >
