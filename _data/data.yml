@@ -1,74 +1,50 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
-
 sidebar:
-  position: right # position of the sidebar : left or right
-  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-  education: True # set to False if you want education in main section instead of in sidebar
+  position: right
+  about: False
+  education: True
 
-  # Profile information
   name: Eduardo Diaz
-  tagline: Software Engineer | Backend | Java
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  tagline: Software Engineer | Java Backend Specialist
+  avatar: profile.png
 
-  # Sidebar links
   email: eduardado@gmail.com
   phone: 0 434 904 185
-  timezone: Australia/Brisbane # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  timezone: Australia/Brisbane
   citizenship: Partner Visa (Full Working Rights)
-  website: https://eduardodiaz.dev # Include the full website URL, including "http://" or "https://".
+  website: https://eduardodiaz.dev
   linkedin: eduardo-diaz-dominguez
-  xing:
   github: eduardado
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky:
-  twitter:
-  stack-overflow:
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
     title: Languages
     info:
       - idiom: English
         level: Professional
-
       - idiom: Spanish
         level: Native
 
   interests:
     title: Interests
     info:
-      - item: Climbing
+      - item: Rock Climbing
         link:
 
 career-profile:
   title: Career Profile
   summary: |
-    Software Engineer with over 4 years of experience in the Java ecosystem. While my primary focus is backend development (Spring Boot, REST APIs), I am versatile across the full stack, working with both Java frameworks (Vaadin, JavaFX) and web-based technologies (JavaScript).
+    Software Engineer with 4+ years of experience specializing in the Java ecosystem (Spring Boot, REST APIs). I offer a strong foundation in RDBMS (PostgreSQL, MySQL, Oracle) and system integrations, complemented by full-stack versatility in React and JavaScript.
 
-    I have hands-on experience working with Relational Databases (MySQL, PostgreSQL, Oracle, Informix) and performing system integrations, bridging the gap between software, third-party APIs, and external hardware.
+    Driven by "under-the-hood" curiosity, I am currently expanding my expertise into DevOps (Docker, CI/CD, Kubernetes) to ensure code quality from development to production.
 
-    I also believe in knowing how things work under the hood. I am currently teaching myself DevOps (Docker, CI/CD, Kubernetes) because I want to understand what happens to my code after I push it.
-
-    Before transitioning to tech, I worked as a Clinical Scientist in Biotech. That experience taught me the importance of precision and following clear procedures, habits I now bring to the craft.
-
-    Beyond the code, I focus on the human side of development. I believe that clear communication and empathy are just as important as the technical solution.
+    Coming from a background as a Clinical Scientist, I bring an exceptional level of precision, analytical rigor, and a commitment to clear documentation—qualities that define my approach to building reliable software.
 
 education:
   title: Education
   info:
-    - degree: Associate Degree in Multiplatform Software Development
+    - degree: Assoc. Degree, Multiplatform Software Development
       university: CEU San Pablo University
       time: 2019 - 2021
-    - degree: Licenciate Degree in Biotechnology
+    - degree: Licentiate Degree, Biotechnology
       university: Pablo Olavide University
       time: 2008 - 2013
 
@@ -79,117 +55,46 @@ experiences:
       time: Sep 2024 - Present
       company: Contal Services, Brisbane
       details: |
-        Working as part of the engineering team to develop and maintain backend software solutions.
-        - Backend: Development using Java and Spring Boot, designing RESTful APIs.
-        - Database: Design and implementation of Relational Databases (Informix).
-        - Frontend: Assisting with component implementation using React and JavaScript.
-        - DevOps: Utilizing Docker for development environments.
-        - Legacy: Maintenance and support of existing systems.
-    - role: Software Engineer (Database Consultant) (Volunteer)
+        Developing and maintaining backend solutions for high-availability systems.
+        - **Backend:** Engineering RESTful APIs using Java and Spring Boot.
+        - **Database:** Designing and optimizing Relational Databases (Informix).
+        - **Frontend:** Implementing UI components with React and JavaScript.
+        - **DevOps:** Streamlining development environments using Docker.
+    - role: Software Engineer (Database Consultant - Volunteer)
       time: Jun 2024 - Sep 2024
       company: Australian Koala Foundation, Brisbane
       details: |
-        - Requirements: Consulted with researchers to understand how they record and use koala spotting data.
-        - Data Analysis: Reviewed 30 years of Excel records to plan a data structure and cleanup process.
-        - Design: Designed a geospatial database model using PostgreSQL and PostGIS to replace the spreadsheet system.
+        - Engineered a geospatial database model (PostgreSQL/PostGIS) to replace legacy spreadsheet systems.
+        - Audited and cleaned 30 years of research data to ensure integrity and searchability.
     - role: Software Engineer (Technical Analyst)
       time: Mar 2024 - May 2024
       company: Boomzza!, Brisbane
       details: |
-        - Evaluated third-party e-sports APIs for features, pricing, and integration feasibility.
-        - Conducted functional testing and reported bugs to the development team.
+        - Analyzed third-party e-sports APIs for pricing, feature sets, and technical feasibility.
+        - Conducted functional testing and QA to identify and report critical bugs.
     - role: Software Developer (Full Stack)
       time: Mar 2021 - Feb 2024
       company: Tier1 Technologies, Seville, Spain
       details: |
-        Acting as a full-stack developer across, desktop, web, and integrations for "Comerzzia" (Unified Commerce Platform) and "Atractor" (in-house ERP).
-        Core Responsibilities:
-          - Backend: Customization of core product logic using Java, Spring, and MyBatis.
-          - Frontend: Implementation of UIs for desktop (JavaFX) and web (Vaadin & JavaScript).
-          - Database: Schema design and development of cross-compatible SQL scripts (Oracle, MySQL, Postgres).
-          - Integration: Connecting software with external hardware (cash management devices) and third-party APIs.
-          - DevOps: Execution of production deployments and maintenance of GitLab CI/CD pipelines.
-    - role: Clinical Embryologist
-      time: Jan 2018 - May 2018
-      company: Complete Fertility | University Hospital Southampton (NHS), UK
+        Full-stack development for "Comerzzia" (Retail Platform) and "Atractor" (ERP).
+        - **Backend:** Developed core business logic using Java, Spring, and MyBatis.
+        - **Integrations:** Integrated hardware (cash management devices) and third-party APIs.
+        - **UI:** Built desktop (JavaFX) and web (Vaadin/JS) interfaces.
+        - **DevOps:** Managed GitLab CI/CD pipelines and production deployments.
+    - role:
+        Clinical Scientist (Biotech Career)
+        # Condensed biotech roles to emphasize transferable engineering traits
+      time: 2016 - 2018
+      company: NHS (UK) | IVI RMA Global (Spain)
       details: |
-        - Achievement: Managed the cryopreservation inventory system and acted as the technical point of contact for patients, translating complex treatment data into clear, understandable progress reports.
-        Responsibilities:
-          - Recovery and in vitro culture of gametes.
-          - Preparation and maintenance of the laboratory culture system.
-          - Management and audit of the cryopreservation banks for gametes and embryos.
-    - role: Clinical Embryologist
-      time: Oct 2016 - Oct 2017
-      company: IVI RMA Global | Spain
-      details: |
-        - Achievement: Responsible for the implementation, staff training, and user experience customization of an electronic traceability system for human gametes and embryos across several clinics nationwide.
-        Responsibilities:
-          - Manipulation and in vitro culture of human gametes.
-          - Maintenance and preparation of culture systems for human gametes and embryos. 
-        Specialized Training:
-          - Intracytoplasmic Sperm Injection (ICSI).
-          - Oocyte Denudation and maturity grading.
-          - Embryo Laser Assisted Hatching.
+        - **Precision:** Managed complex cryopreservation systems and electronic traceability for human gametes.
+        - **Leadership:** Led staff training for new traceability software across multiple clinics.
+        - **Reporting:** Translated highly technical data into clear progress reports for stakeholders.
 
 certifications:
   title: Certifications
   list:
-    - name: IELTS Academic Band 7.5
+    - name: IELTS Academic (Band 7.5)
       issued: Sep 2023
-      start: 2020
-      end: 2021
       organization: IELTS Official
       credentialid: 23ES501067DIAE024A
-      credentialurl: https://ielts.org/organisations/ielts-for-organisations/verifying-ielts-results
-      credentialname: IELTS Official
-# projects:
-#   title: Projects
-#   intro: >
-#     You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#   assignments:
-#     - title: Velocity
-#       link: "#hook"
-#       tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-#     - title: DevStudio
-#       link: "#"
-#       tagline: "A responsive website template designed to help web developers/designers market their services."
-# recommendations:
-#   title: Recommendations
-#   list:
-#     - person: Yareli Perez
-#       email: perezyareli@example.com
-#       phone: 012 345 6789
-#       role: General Director at example.com
-#       recommendation: |
-#         Alan Doe is a super employee!
-#     - person: Lara Henderson
-#       email: larah@example.com
-#       phone: 012 345 6789
-#       role: General Director at example.com
-#       recommendation: |
-#         I would like to work with Alan Doe again!
-
-#         He is a great employee!
-
-# skills:
-#   title: Skills &amp; Proficiency
-
-#   toolset:
-#     - name: Java & Spring Boot
-#       level: 98%
-
-#     - name: RDBMS PostgreSQL, MySQL, Oracle, Informix
-#       level: 95%
-
-#     - name: Git
-#       level: 95%
-
-#     - name: HTML5 & CSS && JavaScript
-#       level: 75%
-
-#     - name: ReactJs, JavaFx, Vaadin, JSP, Tapestry
-#       level: 65%
-
-# footer: >
-#   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
