@@ -19,7 +19,7 @@ sidebar:
     title: Languages
     info:
       - idiom: English
-        level: Professional
+        level: Professional - IELTS 7.5
       - idiom: Spanish
         level: Native
 
@@ -91,10 +91,10 @@ experiences:
         - **Key Achievement:** Led the nationwide rollout of a biometric digital chain of custody system for **IVI RMA Global** (world’s largest IVF group), upgrading security across 7 flagship clinics and exceeding regulatory standards.
         - Safeguarded high-stakes genetic material (embryos/gametes) through time-critical laboratory workflows while providing compassionate, clear updates to patients throughout their journey.
 
-certifications:
-  title: Certifications
-  list:
-    - name: IELTS Academic (Band 7.5)
-      issued: Sep 2023
-      organization: IELTS Official
-      credentialid: 23ES501067DIAE024A
+# certifications:
+#   title: Certifications
+#   list:
+#     - name: IELTS Academic (Band 7.5)
+#       issued: Sep 2023
+#       organization: IELTS Official
+#       credentialid: 23ES501067DIAE024A
