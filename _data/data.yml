@@ -86,13 +86,17 @@ experiences:
         - **DevOps:** Managed GitLab CI/CD pipelines and production deployments.
     - role:
         Clinical Scientist (Biotech Career)
-        # Condensed biotech roles to emphasize transferable engineering traits
+        # Condensed to highlight Systems Implementation
       time: 2016 - 2018
       company: NHS (UK) | IVI RMA Global (Spain)
       details: |
-        - **Precision:** Managed complex cryopreservation systems and electronic traceability for human gametes.
-        - **Leadership:** Led staff training for new traceability software across multiple clinics.
-        - **Reporting:** Translated highly technical data into clear progress reports for stakeholders.
+        **Key Project: Enterprise "Chain of Custody" System Rollout (Nationwide)**
+        Led the implementation of a biometric digital chain of custody system ("Matcher") across 7 major clinics for the world's largest IVF group.
+        - **System Implementation:** Orchestrated the deployment of a zero-trust electronic witnessing architecture, securing the biological audit trail from patient entry to embryo transfer.
+        - **Process Engineering:** Translated complex laboratory workflows into rigid digital constraints, ensuring 100% data integrity and regulatory compliance.
+        - **Impact:** Upgraded the security posture of the region’s flagship clinics, boosting brand reputation and exceeding safety standards ahead of market regulations.
+
+        **Clinical Core:** Executed high-precision laboratory operations (embryo culture, grading, and cryopreservation) in a zero-error, time-critical environment, while translating complex biological metrics for non-technical stakeholders.
 
 certifications:
   title: Certifications
