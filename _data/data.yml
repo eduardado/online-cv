@@ -84,19 +84,12 @@ experiences:
         - **Integrations:** Integrated hardware (cash management devices) and third-party APIs.
         - **UI:** Built desktop (JavaFX) and web (Vaadin/JS) interfaces.
         - **DevOps:** Managed GitLab CI/CD pipelines and production deployments.
-    - role:
-        Clinical Scientist (Biotech Career)
-        # Condensed to highlight Systems Implementation
+    - role: Clinical Scientist (Biotech Career)
       time: 2016 - 2018
       company: NHS (UK) | IVI RMA Global (Spain)
       details: |
-        **Key Project: Enterprise "Chain of Custody" System Rollout (Nationwide)**
-        Led the implementation of a biometric digital chain of custody system ("Matcher") across 7 major clinics for the world's largest IVF group.
-        - **System Implementation:** Orchestrated the deployment of a zero-trust electronic witnessing architecture, securing the biological audit trail from patient entry to embryo transfer.
-        - **Process Engineering:** Translated complex laboratory workflows into rigid digital constraints, ensuring 100% data integrity and regulatory compliance.
-        - **Impact:** Upgraded the security posture of the region’s flagship clinics, boosting brand reputation and exceeding safety standards ahead of market regulations.
-
-        **Clinical Core:** Executed high-precision laboratory operations (embryo culture, grading, and cryopreservation) in a zero-error, time-critical environment, while translating complex biological metrics for non-technical stakeholders.
+        - **Key Achievement:** Led the nationwide rollout of a biometric digital chain of custody system for **IVI RMA Global** (world’s largest IVF group), upgrading security across 7 flagship clinics and exceeding regulatory standards.
+        - Safeguarded high-stakes genetic material (embryos/gametes) through time-critical laboratory workflows while providing compassionate, clear updates to patients throughout their journey.
 
 certifications:
   title: Certifications
