@@ -58,11 +58,7 @@ experiences:
       # time: Sep 2024 - Present
       company: Contal Services; Brisbane - Sep 2024 - Present
       details: |
-        Developing and maintaining backend solutions for high-availability systems.
-        - **Backend:** Engineering RESTful APIs using Java and Spring Boot.
-        - **Database:** Designing and optimizing Relational Databases (Informix).
-        - **Frontend:** Implementing UI components with React and JavaScript.
-        - **DevOps:** Streamlining development environments using Docker.
+        Leading end-to-end greenfield development of a workforce management system, owning the full stack from relational DB design and Java/Spring Boot REST APIs to the React frontend. I manage legacy data migrations, system integrations, and the rewiring of mobile clients to the new API. I ensure reliability via JUnit and Mockito while using Docker for consistent local development.
     - role: Software Engineer (Database Consultant - Volunteer)
       # time: Jun 2024 - Sep 2024
       company: Australian Koala Foundation, Brisbane
