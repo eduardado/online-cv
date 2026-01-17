@@ -23,11 +23,11 @@ sidebar:
       - idiom: Spanish
         level: Native
 
-  interests:
-    title: Interests
-    info:
-      - item: Rock Climbing
-        link:
+  # interests:
+  #   title: Interests
+  #   info:
+  #     - item: Rock Climbing
+  #       link:
 
 career-profile:
   title: Career Profile
@@ -55,8 +55,8 @@ experiences:
   title: Professional Experience
   info:
     - role: Java Backend Software Engineer
-      time: Sep 2024 - Present
-      company: Contal Services, Brisbane
+      # time: Sep 2024 - Present
+      company: Contal Services; Brisbane - Sep 2024 - Present
       details: |
         Developing and maintaining backend solutions for high-availability systems.
         - **Backend:** Engineering RESTful APIs using Java and Spring Boot.
@@ -64,20 +64,14 @@ experiences:
         - **Frontend:** Implementing UI components with React and JavaScript.
         - **DevOps:** Streamlining development environments using Docker.
     - role: Software Engineer (Database Consultant - Volunteer)
-      time: Jun 2024 - Sep 2024
+      # time: Jun 2024 - Sep 2024
       company: Australian Koala Foundation, Brisbane
       details: |
         - Engineered a geospatial database model (PostgreSQL/PostGIS) to replace legacy spreadsheet systems.
         - Audited and cleaned 30 years of research data to ensure integrity and searchability.
-    - role: Software Engineer (Technical Analyst)
-      time: Mar 2024 - May 2024
-      company: Boomzza!, Brisbane
-      details: |
-        - Analyzed third-party e-sports APIs for pricing, feature sets, and technical feasibility.
-        - Conducted functional testing and QA to identify and report critical bugs.
     - role: Software Developer (Full Stack)
-      time: Mar 2021 - Feb 2024
-      company: Tier1 Technologies, Seville, Spain
+      # time: Mar 2021 - Feb 2024
+      company: Tier1 Technologies, Seville, Spain; Mar 2021 - Feb 2024
       details: |
         Full-stack development for "Comerzzia" (Retail Platform) and "Atractor" (ERP).
         - **Backend:** Developed core business logic using Java, Spring, and MyBatis.
@@ -85,8 +79,8 @@ experiences:
         - **UI:** Built desktop (JavaFX) and web (Vaadin/JS) interfaces.
         - **DevOps:** Managed GitLab CI/CD pipelines and production deployments.
     - role: Clinical Scientist (Biotech Career)
-      time: 2016 - 2018
-      company: NHS (UK) | IVI RMA Global (Spain)
+      # time: 2016 - 2018
+      company: NHS (UK) | IVI RMA Global (Spain); 2016 - 2018
       details: |
         - **Key Achievement:** Led the nationwide rollout of a biometric digital chain of custody system for **IVI RMA Global** (world’s largest IVF group), upgrading security across 7 flagship clinics and exceeding regulatory standards.
         - Safeguarded high-stakes genetic material (embryos/gametes) through time-critical laboratory workflows while providing compassionate, clear updates to patients throughout their journey.
