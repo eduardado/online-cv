@@ -62,7 +62,7 @@ experiences:
       # time: Jun 2024 - Sep 2024
       company: Australian Koala Foundation, Brisbane;  Brisbane - Jun 2024 - Sep 2024
       details: |
-        Led system analysis and requirements gathering to architect a PostgreSQL/PostGIS geospatial model for 30 years of legacy research data. Established the technical foundation for transitioning disparate spreadsheets into a unified, searchable system
+        Led system analysis and requirements gathering to architect a PostgreSQL/PostGIS geospatial model for 30 years of legacy research data. Established the technical foundation for transitioning disparate spreadsheets into a unified, searchable system.
 
         **Stack**: PostgreSQL, PostGIS, Docker, Python, SQL, Psql
     - role: Software Developer (Full Stack)
@@ -71,13 +71,14 @@ experiences:
       details: |
         Developed modular Java and Spring features for enterprise ERP and Retail (Web/POS) platforms. I built custom libraries for hardware I/O and third-party API integrations while handling frontend development using JavaFX for POS systems and JSP/Vaadin for web platforms. I also maintained MuleSoft (ESB) workflows and GitLab CI/CD pipelines for our development environments.
 
-        Stack: Java (Spring), JavaScript (Vaadin/JSP), JavaFX, REST, ESB (MuleSoft), Git, GitLab CI/CD.
+        **Stack**: Java (Spring), JavaScript (Vaadin/JSP), JavaFX, REST, ESB (MuleSoft), Git, GitLab CI/CD.
     - role: Clinical Scientist (Biotech Career)
       # time: 2016 - 2018
       company: NHS (UK) | IVI RMA Global (Spain); 2016 - 2018
       details: |
-        - **Key Achievement:** Led the nationwide rollout of a biometric digital chain of custody system for **IVI RMA Global** (world’s largest IVF group), upgrading security across 7 flagship clinics and exceeding regulatory standards.
-        - Safeguarded high-stakes genetic material (embryos/gametes) through time-critical laboratory workflows while providing compassionate, clear updates to patients throughout their journey.
+        Led the nationwide rollout of a biometric digital chain of custody system for IVI RMA Global (world’s largest IVF group), upgrading security across 7 flagship clinics and exceeding regulatory standards.
+
+        Safeguarded high-stakes genetic material (embryos/gametes) through time-critical laboratory workflows while providing compassionate, clear updates to patients throughout their journey.
 
 # certifications:
 #   title: Certifications
