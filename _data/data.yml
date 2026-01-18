@@ -63,8 +63,7 @@ experiences:
       # time: Jun 2024 - Sep 2024
       company: Australian Koala Foundation, Brisbane
       details: |
-        - Engineered a geospatial database model (PostgreSQL/PostGIS) to replace legacy spreadsheet systems.
-        - Audited and cleaned 30 years of research data to ensure integrity and searchability.
+        I contributed to modernizing the foundation’s legacy research systems by initiating a geospatial database model (PostgreSQL/PostGIS) to replace 30 years of disparate spreadsheets. I was responsible for selecting the technical stack, gathering requirements from research scientists, and building the initial system architecture while auditing decades of data for integrity and searchability
     - role: Software Developer (Full Stack)
       # time: Mar 2021 - Feb 2024
       company: Tier1 Technologies, Seville, Spain; Mar 2021 - Feb 2024
