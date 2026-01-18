@@ -73,11 +73,9 @@ experiences:
       # time: Mar 2021 - Feb 2024
       company: Tier1 Technologies; Seville, Spain; Mar 2021 - Feb 2024
       details: |
-        Full-stack development for "Comerzzia" (Retail Platform) and "Atractor" (ERP).
-        - **Backend:** Developed core business logic using Java, Spring, and MyBatis.
-        - **Integrations:** Integrated hardware (cash management devices) and third-party APIs.
-        - **UI:** Built desktop (JavaFX) and web (Vaadin/JS) interfaces.
-        - **DevOps:** Managed GitLab CI/CD pipelines and production deployments.
+        Developed modular Java and Spring features for enterprise ERP and Retail (Web/POS) platforms. I built custom libraries for hardware I/O and third-party API integrations while handling frontend development using JavaFX for POS systems and JSP/Vaadin for web platforms. I also maintained MuleSoft (ESB) workflows and GitLab CI/CD pipelines for our development environments.
+
+        Stack: Java (Spring), JavaScript (Vaadin/JSP), JavaFX, REST, ESB (MuleSoft), Git, GitLab CI/CD.
     - role: Clinical Scientist (Biotech Career)
       # time: 2016 - 2018
       company: NHS (UK) | IVI RMA Global (Spain); 2016 - 2018
