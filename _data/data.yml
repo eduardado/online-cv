@@ -53,11 +53,11 @@ experiences:
     - role: Java Backend Software Engineer
       company: Contal Group; Brisbane - Sep 2024 - Present
       details: |
-        I’m currently leading the end-to-end design, implementation, and migration of a greenfield rostering platform. I manage the full stack—from architecting the relational database and Spring Boot REST APIs to the React frontend. My focus is on building a modular, API-first architecture that is clean and scales easily. 
+        Primary developer of a new rostering platform, working across relational database design, reusable REST APIs, and an interactive React frontend integrated with the legacy system. Translate product requirements into modular software supporting complex scheduling workflows. 
 
-        I also maintain, develop and troubleshoot our legacy system.
+        Implement automated tests, transaction handling, and database migrations. Deploy containerised development builds and maintain and troubleshoot existing Java applications.
 
-        **Stack**: Java (Spring Boot), Hibernate, React, JavaScript, Node.js, SQL, JUnit, Mockito, Docker, Git.
+        **Stack**: Java (Spring Boot), Hibernate, Informix/SQL, React, JavaScript, JUnit, Mockito, Gradle, Docker, Portainer, Git.
     - role: Software Engineer (Database Consultant - Volunteer)
       # time: Jun 2024 - Sep 2024
       company: Australian Koala Foundation, Brisbane;  Brisbane - Jun 2024 - Sep 2024
@@ -76,9 +76,7 @@ experiences:
       # time: 2016 - 2018
       company: NHS (UK) | IVI RMA Global (Spain); 2016 - 2018
       details: |
-        Led the nationwide rollout of a biometric digital chain of custody system for IVI RMA Global (world’s largest IVF group), upgrading security across 7 flagship clinics and exceeding regulatory standards.
-
-        Safeguarded high-stakes genetic material (embryos/gametes) through time-critical laboratory workflows while providing compassionate, clear updates to patients throughout their journey.
+        Led the rollout of an electronic traceability system across seven IVI RMA clinics, including implementation and staff training. Safeguarded sensitive genetic material through precise laboratory workflows while providing compassionate, clear updates to patients throughout their treatment.
 
 # certifications:
 #   title: Certifications
