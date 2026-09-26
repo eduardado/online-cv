@@ -4,7 +4,7 @@ sidebar:
   education: True
 
   name: Eduardo Diaz
-  tagline: Software Engineer | Java Backend Specialist
+  tagline: Full Stack Software Engineer | Java & React
   avatar: profile.png
 
   email: eduardado@gmail.com
@@ -32,7 +32,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I love the art of building software that is simple, stable, and built to last. I’m a firm believer that less code is better, and my journey from clinical science helped me appreciate the value of precision and repeatability. I’m a high-ownership engineer who is passionate about the craft of coding and bringing an enthusiastic, curious mindset to every technical challenge.
+    I love the art of building software that is simple, stable, and built to last. I’m a firm believer that less code is better, and my journey from clinical science helped me appreciate the value of precision and repeatability. Experience has taught me to communicate openly, deliver value in small, well-tested steps, and seek feedback early to learn from mistakes and stay connected to what clients need. Making a meaningful difference and learning something new each day is what keeps me excited about software engineering.
 
 education:
   title: Education
