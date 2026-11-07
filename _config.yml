@@ -13,6 +13,8 @@ description: Full stack software engineer in Brisbane specialising in Java (Spri
 theme_skin: blue # blue turquoise green berry orange ceramic teal oceanstale
 chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
+# Cloudflare Web Analytics token (public, safe to commit)
+cloudflare_analytics_token: bec5a44f5ea04fb7be3b4a2fbc52e12e
 
 # Sass/SCSS
 sass:
